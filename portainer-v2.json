@@ -3779,19 +3779,19 @@
 					"container": "/app/appdata"
 				},
 				{
-					"bind": "/atlas/portainer/Files/AppData/Youtube/Video",
+					"bind": "/atlas/portainer/Youtube/Video",
 					"container": "/app/video"
 				},
 				{
-					"bind": "/atlas/portainer/Files/AppData/Youtube/Subscriptions",
+					"bind": "/atlas/portainer/Youtube/Subscriptions",
 					"container": "/app/subscriptions"
 				},
 				{
-					"bind": "/atlas/portainer/Files/AppData/Youtube/Users",
+					"bind": "/atlas/portainer/Youtube/Users",
 					"container": "/app/users"
 				},
 				{
-					"bind": "/atlas/portainer/Files/AppData/Youtube/Audio",
+					"bind": "/atlas/portainer/Youtube/Audio",
 					"container": "/app/audio"
 				}
 			]
